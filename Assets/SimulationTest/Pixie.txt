@@ -1,0 +1,26 @@
+Pixie
+=============enumReturnType_Rate200============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 57990.0
+TotalWins : 116388.72
+Return Rate: 2.0070481117435
+
+----------------------------------
+Name: Symbol_10 | HitWinCount: 63025 | WinGolds: 11376.800000007
+Name: Symbol_J | HitWinCount: 63346 | WinGolds: 17297.259999993
+Name: Symbol_Q | HitWinCount: 63186 | WinGolds: 17308.179999993
+Name: Symbol_K | HitWinCount: 62645 | WinGolds: 26335.500000017
+Name: Symbol_A | HitWinCount: 62774 | WinGolds: 34716.399999996
+Name: PixieBlueA_1 | HitWinCount: 851 | WinGolds: 65.680000000001
+Name: PixieGreenB_1 | HitWinCount: 843 | WinGolds: 56.620000000001
+Name: PixieRedC_1 | HitWinCount: 772 | WinGolds: 51.08
+Name: PixieYellowD_1 | HitWinCount: 725 | WinGolds: 47.58
+Name: Wild | HitWinCount: 17584 | WinGolds: 9133.6200000007
+Name: Scatter | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_null | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin 触发次数: 335
+FreeSpin 次数: 2010
+FreeSpin 总赢钱数: 4910.64
+

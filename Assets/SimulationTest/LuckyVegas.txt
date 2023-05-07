@@ -1,0 +1,35 @@
+LuckyVegas
+============enumReturnType_Rate95===============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 57627.0
+TotalWins : 54895.420000002
+Return Rate: 0.95259895535082
+
+----------------------------------
+Name: vegas | HitWinCount: 60 | WinGolds: 123.0
+Name: 7red | HitWinCount: 36 | WinGolds: 43.2
+Name: 7blue | HitWinCount: 157 | WinGolds: 164.5
+Name: 7green | HitWinCount: 328 | WinGolds: 281.6
+Name: bar3 | HitWinCount: 2443 | WinGolds: 1163.6
+Name: bar2 | HitWinCount: 4129 | WinGolds: 1825.3999999999
+Name: bar1 | HitWinCount: 6961 | WinGolds: 2588.0
+Name: bell | HitWinCount: 9195 | WinGolds: 2243.6000000001
+Name: grape | HitWinCount: 13724 | WinGolds: 2727.5999999999
+Name: cherry | HitWinCount: 20144 | WinGolds: 2640.3999999991
+Name: wild | HitWinCount: 0 | WinGolds: 0
+Name: scatter | HitWinCount: 0 | WinGolds: 0
+Name: Any Bar | HitWinCount: 84700 | WinGolds: 37032.420000022
+Name: Any 7 | HitWinCount: 2529 | WinGolds: 1854.0999999999
+
+FreeSpin 触发次数: 297
+FreeSpin 次数: 2373
+FreeSpin 赢钱数: 3760.22
+
+JackPot[5] 触发次数: 20 | 120.0
+JackPot[6] 触发次数: 46 | 230.0
+JackPot[7] 触发次数: 93 | 372.0
+JackPot[8] 触发次数: 132 | 396.0
+JackPot[9] 触发次数: 297 | 594.0
+JackPot[10] 触发次数: 496 | 496.0
+

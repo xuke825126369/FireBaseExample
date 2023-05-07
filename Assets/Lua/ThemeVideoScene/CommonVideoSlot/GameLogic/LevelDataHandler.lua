@@ -1,0 +1,2 @@
+local LevelDataHandler = ThemeSingleLevelDataHandler
+return LevelDataHandler

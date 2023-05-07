@@ -1,0 +1,889 @@
+{
+    "nCSharpVersion": "35",
+    "mInitSceneWebItemDic": {
+        "global": {
+            "bundleName": "global",
+            "mHash": "f44c3c9ad364deb6526f64a9fae38816",
+            "bundleNameWithHash": "global_f44c3c9ad364deb6526f64a9fae38816",
+            "bUpdate": true
+        },
+        "initscene": {
+            "bundleName": "initscene",
+            "mHash": "6a7962ec87d80518e6ed87e9756a1741",
+            "bundleNameWithHash": "initscene_6a7962ec87d80518e6ed87e9756a1741",
+            "bUpdate": false
+        },
+        "lobby": {
+            "bundleName": "lobby",
+            "mHash": "f3852ee4ec1f353128067ee05fad4922",
+            "bundleNameWithHash": "lobby_f3852ee4ec1f353128067ee05fad4922",
+            "bUpdate": false
+        },
+        "lua": {
+            "bundleName": "lua",
+            "mHash": "03288b072c44531d6d4eb42a7580aa19",
+            "bundleNameWithHash": "lua_03288b072c44531d6d4eb42a7580aa19",
+            "bUpdate": false
+        },
+        "themeclassiccommon": {
+            "bundleName": "themeclassiccommon",
+            "mHash": "0e3788cfab6fbfe359d4fd91b3cf9ffe",
+            "bundleNameWithHash": "themeclassiccommon_0e3788cfab6fbfe359d4fd91b3cf9ffe",
+            "bUpdate": true
+        },
+        "themevideocommon": {
+            "bundleName": "themevideocommon",
+            "mHash": "d152a3265085da5ab5d679fc88da4282",
+            "bundleNameWithHash": "themevideocommon_d152a3265085da5ab5d679fc88da4282",
+            "bUpdate": false
+        },
+        "themevideoentry": {
+            "bundleName": "themevideoentry",
+            "mHash": "9d6696c5233b414ec8fb1778484d0858",
+            "bundleNameWithHash": "themevideoentry_9d6696c5233b414ec8fb1778484d0858",
+            "bUpdate": false
+        }
+    },
+    "mThemeWebItemDic": {
+        "themeclassicentry_001_wildrespin": {
+            "bundleName": "themeclassicentry_001_wildrespin",
+            "mHash": "6a7991e4b0cdaf1c7ac809d54c76f019",
+            "bundleNameWithHash": "themeclassicentry_001_wildrespin_6a7991e4b0cdaf1c7ac809d54c76f019",
+            "bUpdate": true
+        },
+        "themeclassicentry_002_wildsliding": {
+            "bundleName": "themeclassicentry_002_wildsliding",
+            "mHash": "92509db709ee1abcd0bd91f704e4a6a5",
+            "bundleNameWithHash": "themeclassicentry_002_wildsliding_92509db709ee1abcd0bd91f704e4a6a5",
+            "bUpdate": true
+        },
+        "themeclassicentry_003_luckystar": {
+            "bundleName": "themeclassicentry_003_luckystar",
+            "mHash": "6f7d77214c5384b3a8c53ca3974135d8",
+            "bundleNameWithHash": "themeclassicentry_003_luckystar_6f7d77214c5384b3a8c53ca3974135d8",
+            "bUpdate": true
+        },
+        "themeclassicentry_004_collectlucky": {
+            "bundleName": "themeclassicentry_004_collectlucky",
+            "mHash": "fb61110f288132a61f3752f3a876141e",
+            "bundleNameWithHash": "themeclassicentry_004_collectlucky_fb61110f288132a61f3752f3a876141e",
+            "bUpdate": true
+        },
+        "themeclassicentry_005_wildlock": {
+            "bundleName": "themeclassicentry_005_wildlock",
+            "mHash": "07bce6cea1853ea67f282cb933c528d1",
+            "bundleNameWithHash": "themeclassicentry_005_wildlock_07bce6cea1853ea67f282cb933c528d1",
+            "bUpdate": true
+        },
+        "themeclassicentry_006_stack777": {
+            "bundleName": "themeclassicentry_006_stack777",
+            "mHash": "787b8dbfd3fc146e84daea634df67154",
+            "bundleNameWithHash": "themeclassicentry_006_stack777_787b8dbfd3fc146e84daea634df67154",
+            "bUpdate": true
+        },
+        "themeclassicentry_007_untilfull": {
+            "bundleName": "themeclassicentry_007_untilfull",
+            "mHash": "e91a973ef5719f5da341f739ec938cd7",
+            "bundleNameWithHash": "themeclassicentry_007_untilfull_e91a973ef5719f5da341f739ec938cd7",
+            "bUpdate": true
+        },
+        "themeclassicentry_008_slidingandrespin": {
+            "bundleName": "themeclassicentry_008_slidingandrespin",
+            "mHash": "b279830303170013b93c0e70a1765b47",
+            "bundleNameWithHash": "themeclassicentry_008_slidingandrespin_b279830303170013b93c0e70a1765b47",
+            "bUpdate": true
+        },
+        "themeclassicentry_009_wildlockoneline": {
+            "bundleName": "themeclassicentry_009_wildlockoneline",
+            "mHash": "252cddb54c2c55d28e66f6f6f98242ef",
+            "bundleNameWithHash": "themeclassicentry_009_wildlockoneline_252cddb54c2c55d28e66f6f6f98242ef",
+            "bUpdate": true
+        },
+        "themeclassicentry_010_wildrewind": {
+            "bundleName": "themeclassicentry_010_wildrewind",
+            "mHash": "89c760ee656a914770fb147ae7a64edd",
+            "bundleNameWithHash": "themeclassicentry_010_wildrewind_89c760ee656a914770fb147ae7a64edd",
+            "bUpdate": true
+        },
+        "themeclassicentry_011_untilfullwild": {
+            "bundleName": "themeclassicentry_011_untilfullwild",
+            "mHash": "d62684076fb152daacb84ac742156d5e",
+            "bundleNameWithHash": "themeclassicentry_011_untilfullwild_d62684076fb152daacb84ac742156d5e",
+            "bUpdate": true
+        },
+        "themeclassicentry_012_incrediblexwild": {
+            "bundleName": "themeclassicentry_012_incrediblexwild",
+            "mHash": "1ae1957c05704fd00954169142c69af1",
+            "bundleNameWithHash": "themeclassicentry_012_incrediblexwild_1ae1957c05704fd00954169142c69af1",
+            "bUpdate": true
+        },
+        "themeclassicentry_013_magiccastle": {
+            "bundleName": "themeclassicentry_013_magiccastle",
+            "mHash": "8ee85d52eb5bb936125657d3cd053d90",
+            "bundleNameWithHash": "themeclassicentry_013_magiccastle_8ee85d52eb5bb936125657d3cd053d90",
+            "bUpdate": true
+        },
+        "themeclassicentry_014_columbusday": {
+            "bundleName": "themeclassicentry_014_columbusday",
+            "mHash": "2a98c9113546d885c5984412270d7151",
+            "bundleNameWithHash": "themeclassicentry_014_columbusday_2a98c9113546d885c5984412270d7151",
+            "bUpdate": true
+        },
+        "themeclassicentry_015_supercomborespin": {
+            "bundleName": "themeclassicentry_015_supercomborespin",
+            "mHash": "fff16140bf5b8acf45f3553c8d946b01",
+            "bundleNameWithHash": "themeclassicentry_015_supercomborespin_fff16140bf5b8acf45f3553c8d946b01",
+            "bUpdate": true
+        },
+        "themeclassicentry_016_newlock": {
+            "bundleName": "themeclassicentry_016_newlock",
+            "mHash": "55ec1a107bd3b34ad1194cbca91a6aa7",
+            "bundleNameWithHash": "themeclassicentry_016_newlock_55ec1a107bd3b34ad1194cbca91a6aa7",
+            "bUpdate": true
+        },
+        "themeclassicentry_018_wildchess": {
+            "bundleName": "themeclassicentry_018_wildchess",
+            "mHash": "f6d67fd0b903cacc65fa0976e7159d5e",
+            "bundleNameWithHash": "themeclassicentry_018_wildchess_f6d67fd0b903cacc65fa0976e7159d5e",
+            "bUpdate": true
+        },
+        "themeclassicentry_019_buffalowild": {
+            "bundleName": "themeclassicentry_019_buffalowild",
+            "mHash": "127da44ba30ecee40aa0d325522a087c",
+            "bundleNameWithHash": "themeclassicentry_019_buffalowild_127da44ba30ecee40aa0d325522a087c",
+            "bUpdate": true
+        },
+        "themeclassicentry_020_superfootball": {
+            "bundleName": "themeclassicentry_020_superfootball",
+            "mHash": "8dcea8f45ebbf3f8404c7aeb30bc8ec2",
+            "bundleNameWithHash": "themeclassicentry_020_superfootball_8dcea8f45ebbf3f8404c7aeb30bc8ec2",
+            "bUpdate": true
+        },
+        "themeclassicentry_022_megawheelsuperfruits": {
+            "bundleName": "themeclassicentry_022_megawheelsuperfruits",
+            "mHash": "bd148e4fe653efbc37914f183f67a09d",
+            "bundleNameWithHash": "themeclassicentry_022_megawheelsuperfruits_bd148e4fe653efbc37914f183f67a09d",
+            "bUpdate": true
+        },
+        "themeclassicentry_023_thanksgivingday": {
+            "bundleName": "themeclassicentry_023_thanksgivingday",
+            "mHash": "ce9c469d5e46e90bd14be4c5e736556f",
+            "bundleNameWithHash": "themeclassicentry_023_thanksgivingday_ce9c469d5e46e90bd14be4c5e736556f",
+            "bUpdate": true
+        },
+        "themeclassicentry_024_christmas": {
+            "bundleName": "themeclassicentry_024_christmas",
+            "mHash": "fb46f044d5d1213d47395827d0098a93",
+            "bundleNameWithHash": "themeclassicentry_024_christmas_fb46f044d5d1213d47395827d0098a93",
+            "bUpdate": true
+        },
+        "themeclassicentry_025_aflame": {
+            "bundleName": "themeclassicentry_025_aflame",
+            "mHash": "4f596e61db7200c494a9cef2a7f8143a",
+            "bundleNameWithHash": "themeclassicentry_025_aflame_4f596e61db7200c494a9cef2a7f8143a",
+            "bUpdate": true
+        },
+        "themeclassicentry_030_chiplink": {
+            "bundleName": "themeclassicentry_030_chiplink",
+            "mHash": "11281a14ebe218796ac62c9fe6703fc1",
+            "bundleNameWithHash": "themeclassicentry_030_chiplink_11281a14ebe218796ac62c9fe6703fc1",
+            "bUpdate": true
+        },
+        "themeclassicentry_031_vaultrich": {
+            "bundleName": "themeclassicentry_031_vaultrich",
+            "mHash": "7579fe6fb3604053da9083a84048c0de",
+            "bundleNameWithHash": "themeclassicentry_031_vaultrich_7579fe6fb3604053da9083a84048c0de",
+            "bUpdate": true
+        },
+        "themeclassicentry_032_dragonchase": {
+            "bundleName": "themeclassicentry_032_dragonchase",
+            "mHash": "683e82e38ba7ac4a3b3bbaebeedc1ab9",
+            "bundleNameWithHash": "themeclassicentry_032_dragonchase_683e82e38ba7ac4a3b3bbaebeedc1ab9",
+            "bUpdate": true
+        },
+        "themeclassicentry_033_rapidfire": {
+            "bundleName": "themeclassicentry_033_rapidfire",
+            "mHash": "571436aaa32081e9b634220d7905c485",
+            "bundleNameWithHash": "themeclassicentry_033_rapidfire_571436aaa32081e9b634220d7905c485",
+            "bUpdate": true
+        },
+        "themeclassicentry_034_superfire": {
+            "bundleName": "themeclassicentry_034_superfire",
+            "mHash": "26c5c1164210c0a476ac727d90f77cc5",
+            "bundleNameWithHash": "themeclassicentry_034_superfire_26c5c1164210c0a476ac727d90f77cc5",
+            "bUpdate": true
+        },
+        "themeclassicentry_035_crazygoldenmine": {
+            "bundleName": "themeclassicentry_035_crazygoldenmine",
+            "mHash": "6d70d8abc9a12bfcf5ee2851e00409b3",
+            "bundleNameWithHash": "themeclassicentry_035_crazygoldenmine_6d70d8abc9a12bfcf5ee2851e00409b3",
+            "bUpdate": true
+        },
+        "themeclassicentry_036_cashwheel": {
+            "bundleName": "themeclassicentry_036_cashwheel",
+            "mHash": "ae3255da4120f870b26aac0d19b39d9e",
+            "bundleNameWithHash": "themeclassicentry_036_cashwheel_ae3255da4120f870b26aac0d19b39d9e",
+            "bUpdate": true
+        },
+        "themeclassicentry_037_diamondlink": {
+            "bundleName": "themeclassicentry_037_diamondlink",
+            "mHash": "d5b13e7655126bdea83b0f2491ad4967",
+            "bundleNameWithHash": "themeclassicentry_037_diamondlink_d5b13e7655126bdea83b0f2491ad4967",
+            "bUpdate": true
+        },
+        "themeclassicentry_038_mayagold": {
+            "bundleName": "themeclassicentry_038_mayagold",
+            "mHash": "e59723c1c2853899b21ade2337bd362f",
+            "bundleNameWithHash": "themeclassicentry_038_mayagold_e59723c1c2853899b21ade2337bd362f",
+            "bUpdate": true
+        },
+        "themeclassicslot_001_wildrespin": {
+            "bundleName": "themeclassicslot_001_wildrespin",
+            "mHash": "8d1877ac0a1637e8f9256a2b1d08a76d",
+            "bundleNameWithHash": "themeclassicslot_001_wildrespin_8d1877ac0a1637e8f9256a2b1d08a76d",
+            "bUpdate": true
+        },
+        "themeclassicslot_002_wildsliding": {
+            "bundleName": "themeclassicslot_002_wildsliding",
+            "mHash": "bf8c4b61e93e3d52944f1051845e056a",
+            "bundleNameWithHash": "themeclassicslot_002_wildsliding_bf8c4b61e93e3d52944f1051845e056a",
+            "bUpdate": true
+        },
+        "themeclassicslot_003_luckystar": {
+            "bundleName": "themeclassicslot_003_luckystar",
+            "mHash": "de3496199ab9c8c342afe8bc3a280ef2",
+            "bundleNameWithHash": "themeclassicslot_003_luckystar_de3496199ab9c8c342afe8bc3a280ef2",
+            "bUpdate": true
+        },
+        "themeclassicslot_004_collectlucky": {
+            "bundleName": "themeclassicslot_004_collectlucky",
+            "mHash": "8c880a9189d0009c1df4fc800ef96d50",
+            "bundleNameWithHash": "themeclassicslot_004_collectlucky_8c880a9189d0009c1df4fc800ef96d50",
+            "bUpdate": true
+        },
+        "themeclassicslot_005_wildlock": {
+            "bundleName": "themeclassicslot_005_wildlock",
+            "mHash": "2ab3010e2757e20f6372e896cbb81dcf",
+            "bundleNameWithHash": "themeclassicslot_005_wildlock_2ab3010e2757e20f6372e896cbb81dcf",
+            "bUpdate": true
+        },
+        "themeclassicslot_006_stack777": {
+            "bundleName": "themeclassicslot_006_stack777",
+            "mHash": "1daae66888320761dad3e4e6696d1663",
+            "bundleNameWithHash": "themeclassicslot_006_stack777_1daae66888320761dad3e4e6696d1663",
+            "bUpdate": true
+        },
+        "themeclassicslot_007_untilfull": {
+            "bundleName": "themeclassicslot_007_untilfull",
+            "mHash": "6732b2f3f8918bd1ed3b03946859727f",
+            "bundleNameWithHash": "themeclassicslot_007_untilfull_6732b2f3f8918bd1ed3b03946859727f",
+            "bUpdate": true
+        },
+        "themeclassicslot_008_slidingandrespin": {
+            "bundleName": "themeclassicslot_008_slidingandrespin",
+            "mHash": "b110b94d4e282ddb8d75c6ff05e6b63d",
+            "bundleNameWithHash": "themeclassicslot_008_slidingandrespin_b110b94d4e282ddb8d75c6ff05e6b63d",
+            "bUpdate": true
+        },
+        "themeclassicslot_009_wildlockoneline": {
+            "bundleName": "themeclassicslot_009_wildlockoneline",
+            "mHash": "107708fd6ae552048ff2f6c2f1871db0",
+            "bundleNameWithHash": "themeclassicslot_009_wildlockoneline_107708fd6ae552048ff2f6c2f1871db0",
+            "bUpdate": true
+        },
+        "themeclassicslot_010_wildrewind": {
+            "bundleName": "themeclassicslot_010_wildrewind",
+            "mHash": "663e6247e5d596b5c9c3bdfcf2d6ff04",
+            "bundleNameWithHash": "themeclassicslot_010_wildrewind_663e6247e5d596b5c9c3bdfcf2d6ff04",
+            "bUpdate": true
+        },
+        "themeclassicslot_011_untilfullwild": {
+            "bundleName": "themeclassicslot_011_untilfullwild",
+            "mHash": "91ae411155ff2a29f510ec55ea411ba5",
+            "bundleNameWithHash": "themeclassicslot_011_untilfullwild_91ae411155ff2a29f510ec55ea411ba5",
+            "bUpdate": true
+        },
+        "themeclassicslot_012_incrediblexwild": {
+            "bundleName": "themeclassicslot_012_incrediblexwild",
+            "mHash": "033068f2f9ac11f4351d6e316da1358f",
+            "bundleNameWithHash": "themeclassicslot_012_incrediblexwild_033068f2f9ac11f4351d6e316da1358f",
+            "bUpdate": true
+        },
+        "themeclassicslot_013_magiccastle": {
+            "bundleName": "themeclassicslot_013_magiccastle",
+            "mHash": "9867725109a6ca7b7cab2b65babb6c4e",
+            "bundleNameWithHash": "themeclassicslot_013_magiccastle_9867725109a6ca7b7cab2b65babb6c4e",
+            "bUpdate": true
+        },
+        "themeclassicslot_014_columbusday": {
+            "bundleName": "themeclassicslot_014_columbusday",
+            "mHash": "493b7025909682b9d65ec2d24eeeffc1",
+            "bundleNameWithHash": "themeclassicslot_014_columbusday_493b7025909682b9d65ec2d24eeeffc1",
+            "bUpdate": true
+        },
+        "themeclassicslot_015_supercomborespin": {
+            "bundleName": "themeclassicslot_015_supercomborespin",
+            "mHash": "8f09806e9344a228697f31355ec9bc3e",
+            "bundleNameWithHash": "themeclassicslot_015_supercomborespin_8f09806e9344a228697f31355ec9bc3e",
+            "bUpdate": true
+        },
+        "themeclassicslot_016_newlock": {
+            "bundleName": "themeclassicslot_016_newlock",
+            "mHash": "1b65d7ee5ebb4a4f27568222e2a15404",
+            "bundleNameWithHash": "themeclassicslot_016_newlock_1b65d7ee5ebb4a4f27568222e2a15404",
+            "bUpdate": true
+        },
+        "themeclassicslot_018_wildchess": {
+            "bundleName": "themeclassicslot_018_wildchess",
+            "mHash": "4c3c10a96ab517ba492e4339cb3d6a9e",
+            "bundleNameWithHash": "themeclassicslot_018_wildchess_4c3c10a96ab517ba492e4339cb3d6a9e",
+            "bUpdate": true
+        },
+        "themeclassicslot_019_buffalowild": {
+            "bundleName": "themeclassicslot_019_buffalowild",
+            "mHash": "b9b3484f87b3e86a778107bc153bdf23",
+            "bundleNameWithHash": "themeclassicslot_019_buffalowild_b9b3484f87b3e86a778107bc153bdf23",
+            "bUpdate": true
+        },
+        "themeclassicslot_020_superfootball": {
+            "bundleName": "themeclassicslot_020_superfootball",
+            "mHash": "313f6ecb50a938c2bd1e3056ab625402",
+            "bundleNameWithHash": "themeclassicslot_020_superfootball_313f6ecb50a938c2bd1e3056ab625402",
+            "bUpdate": true
+        },
+        "themeclassicslot_022_megawheelsuperfruits": {
+            "bundleName": "themeclassicslot_022_megawheelsuperfruits",
+            "mHash": "29fe13ed35186fd283abb0e2aaca86b7",
+            "bundleNameWithHash": "themeclassicslot_022_megawheelsuperfruits_29fe13ed35186fd283abb0e2aaca86b7",
+            "bUpdate": true
+        },
+        "themeclassicslot_023_thanksgivingday": {
+            "bundleName": "themeclassicslot_023_thanksgivingday",
+            "mHash": "91b756fdcd2ab02ec33f370857cdb83c",
+            "bundleNameWithHash": "themeclassicslot_023_thanksgivingday_91b756fdcd2ab02ec33f370857cdb83c",
+            "bUpdate": true
+        },
+        "themeclassicslot_024_christmas": {
+            "bundleName": "themeclassicslot_024_christmas",
+            "mHash": "a748e98d4d9d51b630366e0fb4ec025f",
+            "bundleNameWithHash": "themeclassicslot_024_christmas_a748e98d4d9d51b630366e0fb4ec025f",
+            "bUpdate": true
+        },
+        "themeclassicslot_025_aflame": {
+            "bundleName": "themeclassicslot_025_aflame",
+            "mHash": "6f5b7d1ae95ff94b43cca7a70d90edce",
+            "bundleNameWithHash": "themeclassicslot_025_aflame_6f5b7d1ae95ff94b43cca7a70d90edce",
+            "bUpdate": true
+        },
+        "themeclassicslot_030_chiplink": {
+            "bundleName": "themeclassicslot_030_chiplink",
+            "mHash": "d72a0d2d2ca664d4a75f8d611c96734a",
+            "bundleNameWithHash": "themeclassicslot_030_chiplink_d72a0d2d2ca664d4a75f8d611c96734a",
+            "bUpdate": true
+        },
+        "themeclassicslot_031_vaultrich": {
+            "bundleName": "themeclassicslot_031_vaultrich",
+            "mHash": "f6ae168d5f78fd6dbde7ed7ef04ee696",
+            "bundleNameWithHash": "themeclassicslot_031_vaultrich_f6ae168d5f78fd6dbde7ed7ef04ee696",
+            "bUpdate": true
+        },
+        "themeclassicslot_032_dragonchase": {
+            "bundleName": "themeclassicslot_032_dragonchase",
+            "mHash": "798ac65f9ad995b5ed9cd1ad02d17633",
+            "bundleNameWithHash": "themeclassicslot_032_dragonchase_798ac65f9ad995b5ed9cd1ad02d17633",
+            "bUpdate": true
+        },
+        "themeclassicslot_033_rapidfire": {
+            "bundleName": "themeclassicslot_033_rapidfire",
+            "mHash": "9ae32d6f6d42010b7c6b35f97cadcd30",
+            "bundleNameWithHash": "themeclassicslot_033_rapidfire_9ae32d6f6d42010b7c6b35f97cadcd30",
+            "bUpdate": true
+        },
+        "themeclassicslot_034_superfire": {
+            "bundleName": "themeclassicslot_034_superfire",
+            "mHash": "621a6ccab7c5e801b35a2d56c96e3094",
+            "bundleNameWithHash": "themeclassicslot_034_superfire_621a6ccab7c5e801b35a2d56c96e3094",
+            "bUpdate": true
+        },
+        "themeclassicslot_035_crazygoldenmine": {
+            "bundleName": "themeclassicslot_035_crazygoldenmine",
+            "mHash": "8558fc9c5fecc63da3aa1f8c43e3df5b",
+            "bundleNameWithHash": "themeclassicslot_035_crazygoldenmine_8558fc9c5fecc63da3aa1f8c43e3df5b",
+            "bUpdate": true
+        },
+        "themeclassicslot_036_cashwheel": {
+            "bundleName": "themeclassicslot_036_cashwheel",
+            "mHash": "09fbbb42c0d734d76956b9e8e8ec2abd",
+            "bundleNameWithHash": "themeclassicslot_036_cashwheel_09fbbb42c0d734d76956b9e8e8ec2abd",
+            "bUpdate": true
+        },
+        "themeclassicslot_037_diamondlink": {
+            "bundleName": "themeclassicslot_037_diamondlink",
+            "mHash": "b6e8d372b95e8cf3033496e04c70d62e",
+            "bundleNameWithHash": "themeclassicslot_037_diamondlink_b6e8d372b95e8cf3033496e04c70d62e",
+            "bUpdate": true
+        },
+        "themeclassicslot_038_mayagold": {
+            "bundleName": "themeclassicslot_038_mayagold",
+            "mHash": "d63e53c2ca94b2863a58c783b9446883",
+            "bundleNameWithHash": "themeclassicslot_038_mayagold_d63e53c2ca94b2863a58c783b9446883",
+            "bUpdate": true
+        },
+        "themevideoentry_aztecadventure": {
+            "bundleName": "themevideoentry_aztecadventure",
+            "mHash": "df42036090f7c06ba6a24c5087b81c3d",
+            "bundleNameWithHash": "themevideoentry_aztecadventure_df42036090f7c06ba6a24c5087b81c3d",
+            "bUpdate": true
+        },
+        "themevideoentry_biermania": {
+            "bundleName": "themevideoentry_biermania",
+            "mHash": "8922708795e4526c8a9f0e82aa3e5979",
+            "bundleNameWithHash": "themevideoentry_biermania_8922708795e4526c8a9f0e82aa3e5979",
+            "bUpdate": true
+        },
+        "themevideoentry_buffalogold": {
+            "bundleName": "themevideoentry_buffalogold",
+            "mHash": "1c6636da1ff2515e79c665a29f20a377",
+            "bundleNameWithHash": "themevideoentry_buffalogold_1c6636da1ff2515e79c665a29f20a377",
+            "bUpdate": true
+        },
+        "themevideoentry_cashrespins": {
+            "bundleName": "themevideoentry_cashrespins",
+            "mHash": "0dc214fb5e5f3cc985e645640dfc9fd4",
+            "bundleNameWithHash": "themevideoentry_cashrespins_0dc214fb5e5f3cc985e645640dfc9fd4",
+            "bUpdate": true
+        },
+        "themevideoentry_charmwitch": {
+            "bundleName": "themevideoentry_charmwitch",
+            "mHash": "b5011a0a60d579199fe5bc6be0e1f5c6",
+            "bundleNameWithHash": "themevideoentry_charmwitch_b5011a0a60d579199fe5bc6be0e1f5c6",
+            "bUpdate": true
+        },
+        "themevideoentry_chililoco": {
+            "bundleName": "themevideoentry_chililoco",
+            "mHash": "29823672c54e18470fb2185c1718d756",
+            "bundleNameWithHash": "themevideoentry_chililoco_29823672c54e18470fb2185c1718d756",
+            "bUpdate": true
+        },
+        "themevideoentry_colossaldog": {
+            "bundleName": "themevideoentry_colossaldog",
+            "mHash": "5a0023c0bd22fe1f2e2204bb3eed0f99",
+            "bundleNameWithHash": "themevideoentry_colossaldog_5a0023c0bd22fe1f2e2204bb3eed0f99",
+            "bUpdate": true
+        },
+        "themevideoentry_crazydollar": {
+            "bundleName": "themevideoentry_crazydollar",
+            "mHash": "b1518732d6bad19ec4fc7f639ee12563",
+            "bundleNameWithHash": "themevideoentry_crazydollar_b1518732d6bad19ec4fc7f639ee12563",
+            "bUpdate": true
+        },
+        "themevideoentry_diadeamor": {
+            "bundleName": "themevideoentry_diadeamor",
+            "mHash": "89f22900ce6b7fb351f2e261c219e77c",
+            "bundleNameWithHash": "themevideoentry_diadeamor_89f22900ce6b7fb351f2e261c219e77c",
+            "bUpdate": true
+        },
+        "themevideoentry_doggyanddiamond": {
+            "bundleName": "themevideoentry_doggyanddiamond",
+            "mHash": "54c95101a1a0bbe5bd1984e519de77ca",
+            "bundleNameWithHash": "themevideoentry_doggyanddiamond_54c95101a1a0bbe5bd1984e519de77ca",
+            "bUpdate": true
+        },
+        "themevideoentry_fortunefarm": {
+            "bundleName": "themevideoentry_fortunefarm",
+            "mHash": "4f0b431f5eb7a46792b3a1e3ac883ceb",
+            "bundleNameWithHash": "themevideoentry_fortunefarm_4f0b431f5eb7a46792b3a1e3ac883ceb",
+            "bUpdate": true
+        },
+        "themevideoentry_fortunefish": {
+            "bundleName": "themevideoentry_fortunefish",
+            "mHash": "cffa2218c99fd83362d18dd7b8630611",
+            "bundleNameWithHash": "themevideoentry_fortunefish_cffa2218c99fd83362d18dd7b8630611",
+            "bUpdate": true
+        },
+        "themevideoentry_fortunesofgold": {
+            "bundleName": "themevideoentry_fortunesofgold",
+            "mHash": "ff0ec139bd08fa423e8f5e53b446deef",
+            "bundleNameWithHash": "themevideoentry_fortunesofgold_ff0ec139bd08fa423e8f5e53b446deef",
+            "bUpdate": true
+        },
+        "themevideoentry_fulink": {
+            "bundleName": "themevideoentry_fulink",
+            "mHash": "2610182c9c297f452c6b4fc25eaaa3b5",
+            "bundleNameWithHash": "themevideoentry_fulink_2610182c9c297f452c6b4fc25eaaa3b5",
+            "bUpdate": true
+        },
+        "themevideoentry_fuxing": {
+            "bundleName": "themevideoentry_fuxing",
+            "mHash": "66f687eeb3874a5437d0131aab504edb",
+            "bundleNameWithHash": "themevideoentry_fuxing_66f687eeb3874a5437d0131aab504edb",
+            "bUpdate": true
+        },
+        "themevideoentry_gianttreasure": {
+            "bundleName": "themevideoentry_gianttreasure",
+            "mHash": "10ee9ecf43f1d5271731c01e4deece9a",
+            "bundleNameWithHash": "themevideoentry_gianttreasure_10ee9ecf43f1d5271731c01e4deece9a",
+            "bUpdate": true
+        },
+        "themevideoentry_goldenegypt": {
+            "bundleName": "themevideoentry_goldenegypt",
+            "mHash": "dff43178988ce05f3bf7f4d3d21cfc76",
+            "bundleNameWithHash": "themevideoentry_goldenegypt_dff43178988ce05f3bf7f4d3d21cfc76",
+            "bUpdate": true
+        },
+        "themevideoentry_goldenrush": {
+            "bundleName": "themevideoentry_goldenrush",
+            "mHash": "93474db36452b9a9380ed29fef31b547",
+            "bundleNameWithHash": "themevideoentry_goldenrush_93474db36452b9a9380ed29fef31b547",
+            "bUpdate": true
+        },
+        "themevideoentry_happychristmas": {
+            "bundleName": "themevideoentry_happychristmas",
+            "mHash": "7cb50abbd8ef71a6c76c87617d6c63b5",
+            "bundleNameWithHash": "themevideoentry_happychristmas_7cb50abbd8ef71a6c76c87617d6c63b5",
+            "bUpdate": true
+        },
+        "themevideoentry_hotpot": {
+            "bundleName": "themevideoentry_hotpot",
+            "mHash": "c30222f29debd87a90e1f27a1a1d8665",
+            "bundleNameWithHash": "themevideoentry_hotpot_c30222f29debd87a90e1f27a1a1d8665",
+            "bUpdate": true
+        },
+        "themevideoentry_legendofcleopatra": {
+            "bundleName": "themevideoentry_legendofcleopatra",
+            "mHash": "83e0bca8bf40f936e3b3ed394219b44f",
+            "bundleNameWithHash": "themevideoentry_legendofcleopatra_83e0bca8bf40f936e3b3ed394219b44f",
+            "bUpdate": true
+        },
+        "themevideoentry_magicball": {
+            "bundleName": "themevideoentry_magicball",
+            "mHash": "41f5a445479507b212c95148783f939f",
+            "bundleNameWithHash": "themevideoentry_magicball_41f5a445479507b212c95148783f939f",
+            "bUpdate": true
+        },
+        "themevideoentry_mermaidmischief": {
+            "bundleName": "themevideoentry_mermaidmischief",
+            "mHash": "2f57168f8069fcbe7396017c005feb45",
+            "bundleNameWithHash": "themevideoentry_mermaidmischief_2f57168f8069fcbe7396017c005feb45",
+            "bUpdate": true
+        },
+        "themevideoentry_monsterriches": {
+            "bundleName": "themevideoentry_monsterriches",
+            "mHash": "85d0d4c0f4f42bcd7637f254c4d5d8e5",
+            "bundleNameWithHash": "themevideoentry_monsterriches_85d0d4c0f4f42bcd7637f254c4d5d8e5",
+            "bUpdate": true
+        },
+        "themevideoentry_oceanromance": {
+            "bundleName": "themevideoentry_oceanromance",
+            "mHash": "b82bfc492cf966bb209dfe44bd1736f0",
+            "bundleNameWithHash": "themevideoentry_oceanromance_b82bfc492cf966bb209dfe44bd1736f0",
+            "bUpdate": true
+        },
+        "themevideoentry_phoenix": {
+            "bundleName": "themevideoentry_phoenix",
+            "mHash": "b660a4d149de2bdc33ba508a7350d403",
+            "bundleNameWithHash": "themevideoentry_phoenix_b660a4d149de2bdc33ba508a7350d403",
+            "bUpdate": true
+        },
+        "themevideoentry_richofvegas": {
+            "bundleName": "themevideoentry_richofvegas",
+            "mHash": "60325892760487c0c1c0568e6f051cf6",
+            "bundleNameWithHash": "themevideoentry_richofvegas_60325892760487c0c1c0568e6f051cf6",
+            "bUpdate": true
+        },
+        "themevideoentry_santamania": {
+            "bundleName": "themevideoentry_santamania",
+            "mHash": "dc529cbb4702001918a7eed02531aaec",
+            "bundleNameWithHash": "themevideoentry_santamania_dc529cbb4702001918a7eed02531aaec",
+            "bUpdate": true
+        },
+        "themevideoentry_shinydiamonds": {
+            "bundleName": "themevideoentry_shinydiamonds",
+            "mHash": "684d11e7c442312a547309a51200d036",
+            "bundleNameWithHash": "themevideoentry_shinydiamonds_684d11e7c442312a547309a51200d036",
+            "bUpdate": true
+        },
+        "themevideoentry_smitten": {
+            "bundleName": "themevideoentry_smitten",
+            "mHash": "60d9f1908cfc30ccc3d837f259f15e93",
+            "bundleNameWithHash": "themevideoentry_smitten_60d9f1908cfc30ccc3d837f259f15e93",
+            "bUpdate": true
+        },
+        "themevideoentry_snowwhite": {
+            "bundleName": "themevideoentry_snowwhite",
+            "mHash": "d66b03770f9f89d92c4c23b44070d098",
+            "bundleNameWithHash": "themevideoentry_snowwhite_d66b03770f9f89d92c4c23b44070d098",
+            "bUpdate": true
+        },
+        "themevideoentry_storyofmedusa": {
+            "bundleName": "themevideoentry_storyofmedusa",
+            "mHash": "3ed9dfd699c145ad8494ef28764893d7",
+            "bundleNameWithHash": "themevideoentry_storyofmedusa_3ed9dfd699c145ad8494ef28764893d7",
+            "bUpdate": true
+        },
+        "themevideoentry_vegaslink": {
+            "bundleName": "themevideoentry_vegaslink",
+            "mHash": "18a06e84186187740a63722de7c009b5",
+            "bundleNameWithHash": "themevideoentry_vegaslink_18a06e84186187740a63722de7c009b5",
+            "bUpdate": true
+        },
+        "themevideoentry_vesuvianforture": {
+            "bundleName": "themevideoentry_vesuvianforture",
+            "mHash": "0df1ee5f80a0376a7bca7fd1dffd49a3",
+            "bundleNameWithHash": "themevideoentry_vesuvianforture_0df1ee5f80a0376a7bca7fd1dffd49a3",
+            "bUpdate": true
+        },
+        "themevideoentry_wildbeast": {
+            "bundleName": "themevideoentry_wildbeast",
+            "mHash": "506036d58cdcc3bf9399fa74187f75a0",
+            "bundleNameWithHash": "themevideoentry_wildbeast_506036d58cdcc3bf9399fa74187f75a0",
+            "bUpdate": true
+        },
+        "themevideoentry_witch": {
+            "bundleName": "themevideoentry_witch",
+            "mHash": "727631a2013087516d4f091e78acc9ba",
+            "bundleNameWithHash": "themevideoentry_witch_727631a2013087516d4f091e78acc9ba",
+            "bUpdate": true
+        },
+        "themevideoentry_wolf": {
+            "bundleName": "themevideoentry_wolf",
+            "mHash": "3c4dfea6fc2f08201f8b1882286d5154",
+            "bundleNameWithHash": "themevideoentry_wolf_3c4dfea6fc2f08201f8b1882286d5154",
+            "bUpdate": true
+        },
+        "themevideoentry_zues": {
+            "bundleName": "themevideoentry_zues",
+            "mHash": "72452db7413496781c712d1cfaaef031",
+            "bundleNameWithHash": "themevideoentry_zues_72452db7413496781c712d1cfaaef031",
+            "bUpdate": true
+        },
+        "themevideoslot_aztecadventure": {
+            "bundleName": "themevideoslot_aztecadventure",
+            "mHash": "f99dc4e6e2dc5b0bfe33b9f5c293e937",
+            "bundleNameWithHash": "themevideoslot_aztecadventure_f99dc4e6e2dc5b0bfe33b9f5c293e937",
+            "bUpdate": true
+        },
+        "themevideoslot_biermania": {
+            "bundleName": "themevideoslot_biermania",
+            "mHash": "570472ad44e909c92633f3390b3a44aa",
+            "bundleNameWithHash": "themevideoslot_biermania_570472ad44e909c92633f3390b3a44aa",
+            "bUpdate": true
+        },
+        "themevideoslot_buffalogold": {
+            "bundleName": "themevideoslot_buffalogold",
+            "mHash": "5c1ae52a28b6992046b2ee4b83eca11a",
+            "bundleNameWithHash": "themevideoslot_buffalogold_5c1ae52a28b6992046b2ee4b83eca11a",
+            "bUpdate": true
+        },
+        "themevideoslot_cashrespins": {
+            "bundleName": "themevideoslot_cashrespins",
+            "mHash": "4a981941544982fe8d0ce7c768d746ae",
+            "bundleNameWithHash": "themevideoslot_cashrespins_4a981941544982fe8d0ce7c768d746ae",
+            "bUpdate": true
+        },
+        "themevideoslot_charmwitch": {
+            "bundleName": "themevideoslot_charmwitch",
+            "mHash": "20a4841731a89069f884c5bfc34a03b6",
+            "bundleNameWithHash": "themevideoslot_charmwitch_20a4841731a89069f884c5bfc34a03b6",
+            "bUpdate": true
+        },
+        "themevideoslot_chililoco": {
+            "bundleName": "themevideoslot_chililoco",
+            "mHash": "d87e158dd538ab29f7d470a315138826",
+            "bundleNameWithHash": "themevideoslot_chililoco_d87e158dd538ab29f7d470a315138826",
+            "bUpdate": true
+        },
+        "themevideoslot_colossaldog": {
+            "bundleName": "themevideoslot_colossaldog",
+            "mHash": "1832e38690fbfad5e170a0f978f6672b",
+            "bundleNameWithHash": "themevideoslot_colossaldog_1832e38690fbfad5e170a0f978f6672b",
+            "bUpdate": true
+        },
+        "themevideoslot_crazydollar": {
+            "bundleName": "themevideoslot_crazydollar",
+            "mHash": "1dca1eb81cabd2e00aacd24a87bcee33",
+            "bundleNameWithHash": "themevideoslot_crazydollar_1dca1eb81cabd2e00aacd24a87bcee33",
+            "bUpdate": true
+        },
+        "themevideoslot_diadeamor": {
+            "bundleName": "themevideoslot_diadeamor",
+            "mHash": "17b68ae15b9c017417ef982bd66ecec3",
+            "bundleNameWithHash": "themevideoslot_diadeamor_17b68ae15b9c017417ef982bd66ecec3",
+            "bUpdate": true
+        },
+        "themevideoslot_doggyanddiamond": {
+            "bundleName": "themevideoslot_doggyanddiamond",
+            "mHash": "cfa05f916f4d6520f285165bceeb7172",
+            "bundleNameWithHash": "themevideoslot_doggyanddiamond_cfa05f916f4d6520f285165bceeb7172",
+            "bUpdate": true
+        },
+        "themevideoslot_fortunefarm": {
+            "bundleName": "themevideoslot_fortunefarm",
+            "mHash": "4ada0e2abbba554b733ea5f152e1ba8f",
+            "bundleNameWithHash": "themevideoslot_fortunefarm_4ada0e2abbba554b733ea5f152e1ba8f",
+            "bUpdate": true
+        },
+        "themevideoslot_fortunefish": {
+            "bundleName": "themevideoslot_fortunefish",
+            "mHash": "203bbaf9b9388c3e19dd77e12171e99e",
+            "bundleNameWithHash": "themevideoslot_fortunefish_203bbaf9b9388c3e19dd77e12171e99e",
+            "bUpdate": true
+        },
+        "themevideoslot_fortunesofgold": {
+            "bundleName": "themevideoslot_fortunesofgold",
+            "mHash": "5968cf818e9b9ac1ed62da9d659f5e1f",
+            "bundleNameWithHash": "themevideoslot_fortunesofgold_5968cf818e9b9ac1ed62da9d659f5e1f",
+            "bUpdate": true
+        },
+        "themevideoslot_fulink": {
+            "bundleName": "themevideoslot_fulink",
+            "mHash": "1c705ab4bafc11524afa4fd02de13e9a",
+            "bundleNameWithHash": "themevideoslot_fulink_1c705ab4bafc11524afa4fd02de13e9a",
+            "bUpdate": true
+        },
+        "themevideoslot_fuxing": {
+            "bundleName": "themevideoslot_fuxing",
+            "mHash": "aaecb3b1a977b79093d9a28b57a20a47",
+            "bundleNameWithHash": "themevideoslot_fuxing_aaecb3b1a977b79093d9a28b57a20a47",
+            "bUpdate": true
+        },
+        "themevideoslot_gianttreasure": {
+            "bundleName": "themevideoslot_gianttreasure",
+            "mHash": "6b267483f634a24f0f2ccf24f657203f",
+            "bundleNameWithHash": "themevideoslot_gianttreasure_6b267483f634a24f0f2ccf24f657203f",
+            "bUpdate": true
+        },
+        "themevideoslot_goldenegypt": {
+            "bundleName": "themevideoslot_goldenegypt",
+            "mHash": "d71710af8304cfb49a90a618eee07c36",
+            "bundleNameWithHash": "themevideoslot_goldenegypt_d71710af8304cfb49a90a618eee07c36",
+            "bUpdate": true
+        },
+        "themevideoslot_goldenrush": {
+            "bundleName": "themevideoslot_goldenrush",
+            "mHash": "119c26ab6505314bc7cdbdb53aaef185",
+            "bundleNameWithHash": "themevideoslot_goldenrush_119c26ab6505314bc7cdbdb53aaef185",
+            "bUpdate": true
+        },
+        "themevideoslot_happychristmas": {
+            "bundleName": "themevideoslot_happychristmas",
+            "mHash": "0946f969790ad9952714f94a4058d7ef",
+            "bundleNameWithHash": "themevideoslot_happychristmas_0946f969790ad9952714f94a4058d7ef",
+            "bUpdate": true
+        },
+        "themevideoslot_hotpot": {
+            "bundleName": "themevideoslot_hotpot",
+            "mHash": "4098c2dc770ac67129b12c773045f997",
+            "bundleNameWithHash": "themevideoslot_hotpot_4098c2dc770ac67129b12c773045f997",
+            "bUpdate": true
+        },
+        "themevideoslot_legendofcleopatra": {
+            "bundleName": "themevideoslot_legendofcleopatra",
+            "mHash": "8bdadbff4673cc1b46a7c34966f5ff12",
+            "bundleNameWithHash": "themevideoslot_legendofcleopatra_8bdadbff4673cc1b46a7c34966f5ff12",
+            "bUpdate": true
+        },
+        "themevideoslot_magicball": {
+            "bundleName": "themevideoslot_magicball",
+            "mHash": "150967dce67bda72dfc47650ba373850",
+            "bundleNameWithHash": "themevideoslot_magicball_150967dce67bda72dfc47650ba373850",
+            "bUpdate": true
+        },
+        "themevideoslot_mermaidmischief": {
+            "bundleName": "themevideoslot_mermaidmischief",
+            "mHash": "48fc12e3f4e63b5c81978e56337f8891",
+            "bundleNameWithHash": "themevideoslot_mermaidmischief_48fc12e3f4e63b5c81978e56337f8891",
+            "bUpdate": true
+        },
+        "themevideoslot_monsterriches": {
+            "bundleName": "themevideoslot_monsterriches",
+            "mHash": "8873e1614fbcd4b87346a1b819c2f961",
+            "bundleNameWithHash": "themevideoslot_monsterriches_8873e1614fbcd4b87346a1b819c2f961",
+            "bUpdate": true
+        },
+        "themevideoslot_oceanromance": {
+            "bundleName": "themevideoslot_oceanromance",
+            "mHash": "46d1f82d7b2e6b743ec777fb9cd88579",
+            "bundleNameWithHash": "themevideoslot_oceanromance_46d1f82d7b2e6b743ec777fb9cd88579",
+            "bUpdate": true
+        },
+        "themevideoslot_phoenix": {
+            "bundleName": "themevideoslot_phoenix",
+            "mHash": "3b0a8fd621986f8a8e03dde0905f0bc5",
+            "bundleNameWithHash": "themevideoslot_phoenix_3b0a8fd621986f8a8e03dde0905f0bc5",
+            "bUpdate": true
+        },
+        "themevideoslot_richofvegas": {
+            "bundleName": "themevideoslot_richofvegas",
+            "mHash": "32b756b27a2806643ad4ebf4a3955c5e",
+            "bundleNameWithHash": "themevideoslot_richofvegas_32b756b27a2806643ad4ebf4a3955c5e",
+            "bUpdate": true
+        },
+        "themevideoslot_santamania": {
+            "bundleName": "themevideoslot_santamania",
+            "mHash": "05720502f8a2a87f5f164d3bae04e254",
+            "bundleNameWithHash": "themevideoslot_santamania_05720502f8a2a87f5f164d3bae04e254",
+            "bUpdate": true
+        },
+        "themevideoslot_shinydiamonds": {
+            "bundleName": "themevideoslot_shinydiamonds",
+            "mHash": "fe40e5a5e39df8ad22d7ab77bd32d6df",
+            "bundleNameWithHash": "themevideoslot_shinydiamonds_fe40e5a5e39df8ad22d7ab77bd32d6df",
+            "bUpdate": true
+        },
+        "themevideoslot_smitten": {
+            "bundleName": "themevideoslot_smitten",
+            "mHash": "c15bd50793672073c375d867e13c0137",
+            "bundleNameWithHash": "themevideoslot_smitten_c15bd50793672073c375d867e13c0137",
+            "bUpdate": true
+        },
+        "themevideoslot_snowwhite": {
+            "bundleName": "themevideoslot_snowwhite",
+            "mHash": "a82ae62e175af19dce605e094aabd6f9",
+            "bundleNameWithHash": "themevideoslot_snowwhite_a82ae62e175af19dce605e094aabd6f9",
+            "bUpdate": true
+        },
+        "themevideoslot_storyofmedusa": {
+            "bundleName": "themevideoslot_storyofmedusa",
+            "mHash": "b9daad19a47be01f108020106e6478d7",
+            "bundleNameWithHash": "themevideoslot_storyofmedusa_b9daad19a47be01f108020106e6478d7",
+            "bUpdate": true
+        },
+        "themevideoslot_vegaslink": {
+            "bundleName": "themevideoslot_vegaslink",
+            "mHash": "229293cdef7b19e78174ed6374705149",
+            "bundleNameWithHash": "themevideoslot_vegaslink_229293cdef7b19e78174ed6374705149",
+            "bUpdate": true
+        },
+        "themevideoslot_vesuvianforture": {
+            "bundleName": "themevideoslot_vesuvianforture",
+            "mHash": "47cd3a937bcb853d534be258ef25b512",
+            "bundleNameWithHash": "themevideoslot_vesuvianforture_47cd3a937bcb853d534be258ef25b512",
+            "bUpdate": true
+        },
+        "themevideoslot_wildbeast": {
+            "bundleName": "themevideoslot_wildbeast",
+            "mHash": "879ca5133b58468df833a4661da721a5",
+            "bundleNameWithHash": "themevideoslot_wildbeast_879ca5133b58468df833a4661da721a5",
+            "bUpdate": true
+        },
+        "themevideoslot_witch": {
+            "bundleName": "themevideoslot_witch",
+            "mHash": "1864264ded1db928a73b2429c541693d",
+            "bundleNameWithHash": "themevideoslot_witch_1864264ded1db928a73b2429c541693d",
+            "bUpdate": true
+        },
+        "themevideoslot_wolf": {
+            "bundleName": "themevideoslot_wolf",
+            "mHash": "41da54fe452751f8f30f7789298c7574",
+            "bundleNameWithHash": "themevideoslot_wolf_41da54fe452751f8f30f7789298c7574",
+            "bUpdate": true
+        },
+        "themevideoslot_zues": {
+            "bundleName": "themevideoslot_zues",
+            "mHash": "4cf09946e3c6a84f5e0f3f8f989e5b89",
+            "bundleNameWithHash": "themevideoslot_zues_4cf09946e3c6a84f5e0f3f8f989e5b89",
+            "bUpdate": true
+        }
+    }
+}

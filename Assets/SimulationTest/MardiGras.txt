@@ -1,0 +1,25 @@
+MardiGras
+=============enumReturnType_Rate200============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 60000.0
+TotalWins : 125689.59999998
+Return Rate: 2.0948266666664
+
+----------------------------------
+Name: Symbol_1Bar | HitWinCount: 4508 | WinGolds: 2704.7999999998
+Name: Symbol_2Bar | HitWinCount: 4439 | WinGolds: 4439.0
+Name: Symbol_3Bar | HitWinCount: 4401 | WinGolds: 8802.0
+Name: Symbol_color7 | HitWinCount: 2653 | WinGolds: 13265.0
+Name: Symbol_Mardigras | HitWinCount: 1204 | WinGolds: 24080.0
+Name: Symbol_1X3Wild_1 | HitWinCount: 3383 | WinGolds: 67660.0
+Name: Symbol_1X3Wild_2 | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_1X3Wild_3 | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_null | HitWinCount: 0 | WinGolds: 0
+Name: Any Bar | HitWinCount: 11847 | WinGolds: 4738.8000000001
+Name: Any 7 | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin 触发次数: 0
+FreeSpin 次数: 0
+FreeSpin 总赢钱数: 0
+

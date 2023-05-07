@@ -70,3 +70,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/UIElementsSchema/
+/Assets/LuaCode/
+/Assets/XLua/Gen/
+/Assets/AAABuild/
+/Assets/StreamingAssets/
+/Assets/AAALocalWebTest/
+/Assets/ResourceABs/Lua/
+/Recordings/
+/Assets/Firebase/

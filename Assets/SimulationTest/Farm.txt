@@ -1,0 +1,26 @@
+Farm
+==========enumReturnType_Rate50=============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 56190.0
+TotalWins : 30139.660000001
+Return Rate: 0.5363883253248
+
+----------------------------------
+Name: apple | HitWinCount: 8537 | WinGolds: 2952.5999999997
+Name: yangcong | HitWinCount: 8225 | WinGolds: 2685.3999999998
+Name: huluobo | HitWinCount: 8486 | WinGolds: 2830.7999999998
+Name: baomi | HitWinCount: 8566 | WinGolds: 5053.9999999999
+Name: nangua | HitWinCount: 8577 | WinGolds: 5030.5999999999
+Name: sheep | HitWinCount: 16941 | WinGolds: 1977.0399999996
+Name: dog | HitWinCount: 16345 | WinGolds: 2295.5999999993
+Name: pig | HitWinCount: 15658 | WinGolds: 2922.3199999994
+Name: cow | HitWinCount: 17058 | WinGolds: 4390.8999999994
+Name: scatter | HitWinCount: 0 | WinGolds: 0
+Name: wild | HitWinCount: 1 | WinGolds: 0.4
+Name: WILDX3 | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin 触发次数: 312
+FreeSpin 次数: 3810
+FreeSpin 总赢钱数: 2020.92
+

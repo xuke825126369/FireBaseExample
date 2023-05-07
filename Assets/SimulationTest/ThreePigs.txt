@@ -1,0 +1,30 @@
+ThreePigs
+============enumReturnType_Rate95===============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 52980.0
+TotalWins : 49980.5
+Return Rate: 0.94338429596075
+
+----------------------------------
+Name: 10 | HitWinCount: 6636 | WinGolds: 883.9000000001
+Name: J | HitWinCount: 6435 | WinGolds: 835.20000000009
+Name: Q | HitWinCount: 6262 | WinGolds: 841.30000000009
+Name: K | HitWinCount: 6457 | WinGolds: 1003.7000000001
+Name: A | HitWinCount: 6237 | WinGolds: 943.60000000007
+Name: apple | HitWinCount: 6409 | WinGolds: 1899.2000000001
+Name: butter | HitWinCount: 6280 | WinGolds: 1841.2000000001
+Name: carrot | HitWinCount: 6525 | WinGolds: 1891.6000000002
+Name: pig1 | HitWinCount: 15627 | WinGolds: 1384.2199999995
+Name: pig2 | HitWinCount: 20970 | WinGolds: 2357.9999999993
+Name: pig3 | HitWinCount: 18459 | WinGolds: 2348.5799999992
+Name: wild | HitWinCount: 0 | WinGolds: 0
+Name: scatter | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin Begin 触发次数: 509
+FreeSpin Again 触发次数: 67
+FreeSpin 次数: 7020
+FreeSpin 总赢钱数: 6586.1199999999
+
+JackPot 触发次数: 225
+JackPot 总赢钱数: 33750

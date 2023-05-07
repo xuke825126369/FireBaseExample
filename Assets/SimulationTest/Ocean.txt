@@ -1,0 +1,33 @@
+Ocean
+==========enumReturnType_Rate50=============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 56410.0
+TotalWins : 28400.8
+Return Rate: 0.50347101577735
+
+----------------------------------
+Name: Symbol_10 | HitWinCount: 6375 | WinGolds: 1743.6000000001
+Name: Symbol_J | HitWinCount: 6129 | WinGolds: 1695.8000000001
+Name: Symbol_Q | HitWinCount: 5960 | WinGolds: 1634.4000000001
+Name: Symbol_K | HitWinCount: 6257 | WinGolds: 1673.4000000001
+Name: Symbol_A | HitWinCount: 6115 | WinGolds: 1665.6000000001
+Name: Symbol_BlueFish | HitWinCount: 6304 | WinGolds: 3059.2000000003
+Name: Symbol_GreenFish | HitWinCount: 5956 | WinGolds: 2844.0000000003
+Name: Symbol_OrangeFish | HitWinCount: 6060 | WinGolds: 2897.6000000003
+Name: Symbol_YellowFish | HitWinCount: 6324 | WinGolds: 3067.2000000003
+Name: Symbol_Wild | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_Wildx2 | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_Wildx3 | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_Bonus | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_Scatter | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin 触发次数: 298
+FreeSpin 次数: 3590
+FreeSpin 总赢钱数: 1909.8
+
+Bonus游戏 触发数量: 283
+
+JackPot[1]: 216 | 4320
+JackPot[2]: 58 | 2900
+JackPot[3]: 9 | 900

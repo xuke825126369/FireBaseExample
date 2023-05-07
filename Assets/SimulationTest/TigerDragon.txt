@@ -1,0 +1,35 @@
+TigerDragon
+==========enumReturnType_Rate50=============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 56920.0
+TotalWins : 28597.549999999
+Return Rate: 0.5024165495432
+
+----------------------------------
+Name: 9 | HitWinCount: 0 | WinGolds: 0
+Name: 10 | HitWinCount: 0 | WinGolds: 0
+Name: J | HitWinCount: 0 | WinGolds: 0
+Name: Q | HitWinCount: 0 | WinGolds: 0
+Name: K | HitWinCount: 0 | WinGolds: 0
+Name: A | HitWinCount: 0 | WinGolds: 0
+Name: dizi | HitWinCount: 0 | WinGolds: 0
+Name: guqin | HitWinCount: 0 | WinGolds: 0
+Name: huahua | HitWinCount: 0 | WinGolds: 0
+Name: laohu | HitWinCount: 0 | WinGolds: 0
+Name: qinglong | HitWinCount: 0 | WinGolds: 0
+Name: men | HitWinCount: 0 | WinGolds: 0
+Name: Scatter | HitWinCount: 0 | WinGolds: 0
+Name: nanxiaWild_1 | HitWinCount: 0 | WinGolds: 0
+Name: nvxiaWild_1 | HitWinCount: 0 | WinGolds: 0
+Name: NullSymbol | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin 触发次数: 385
+FreeSpin 次数: 3080
+FreeSpin 总赢钱数: 1434.2
+
+ReSpin 触发次数: 2862
+ReSpin 次数: 2862
+ReSpin 总赢钱数: 8484.9
+
+Wild 同时触发次数: 9501

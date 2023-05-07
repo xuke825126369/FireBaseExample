@@ -1,0 +1,32 @@
+India
+============enumReturnType_Rate95===============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 49519.0
+TotalWins : 47622.48
+Return Rate: 0.96170116520932
+
+----------------------------------
+Name: Symbol_10 | HitWinCount: 9956 | WinGolds: 445.22000000007
+Name: Symbol_J | HitWinCount: 9883 | WinGolds: 446.08000000007
+Name: Symbol_Q | HitWinCount: 9841 | WinGolds: 443.96000000006
+Name: Symbol_K | HitWinCount: 10326 | WinGolds: 739.17999999987
+Name: Symbol_A | HitWinCount: 10084 | WinGolds: 721.73999999988
+Name: Cow | HitWinCount: 15402 | WinGolds: 2859.8399999997
+Name: Girl | HitWinCount: 15138 | WinGolds: 3869.1999999993
+Name: Hat | HitWinCount: 15194 | WinGolds: 1815.6999999997
+Name: Pipa | HitWinCount: 15644 | WinGolds: 1863.9399999997
+Name: Tiger | HitWinCount: 15544 | WinGolds: 2897.8599999997
+Name: Wild | HitWinCount: 20 | WinGolds: 9.6
+Name: scatter | HitWinCount: 0 | WinGolds: 0
+Name: CowDouble | HitWinCount: 26799 | WinGolds: 6698.8399999972
+Name: GirlDouble | HitWinCount: 27027 | WinGolds: 9581.0
+Name: HatDouble | HitWinCount: 26304 | WinGolds: 4234.9799999991
+Name: PipaDouble | HitWinCount: 27212 | WinGolds: 4298.5799999991
+Name: TigerDouble | HitWinCount: 27044 | WinGolds: 6696.7599999971
+Name: WildDouble | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin 触发次数: 518
+FreeSpin 次数: 10481
+FreeSpin 总赢钱数: 15902.96
+

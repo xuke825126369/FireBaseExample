@@ -1,0 +1,26 @@
+Animal
+=============enumReturnType_Rate200============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 45915.0
+TotalWins : 90791.899999998
+Return Rate: 1.9773908308831
+
+----------------------------------
+Name: Symbol_10 | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_J | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_Q | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_K | HitWinCount: 0 | WinGolds: 0
+Name: Symbol_A | HitWinCount: 0 | WinGolds: 0
+Name: whitetiger | HitWinCount: 0 | WinGolds: 0
+Name: orangutan | HitWinCount: 0 | WinGolds: 0
+Name: bear | HitWinCount: 0 | WinGolds: 0
+Name: hippo | HitWinCount: 0 | WinGolds: 0
+Name: lion | HitWinCount: 0 | WinGolds: 0
+Name: SCATTER | HitWinCount: 0 | WinGolds: 0
+Name: WILD | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin 触发次数: 929
+FreeSpin 次数: 14085
+FreeSpin 总赢钱数: 21789.0
+

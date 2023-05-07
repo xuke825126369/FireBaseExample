@@ -1,0 +1,26 @@
+GodOfWealth
+==========enumReturnType_Rate50=============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 55933.0
+TotalWins : 28699.9375
+Return Rate: 0.51311278672698
+
+----------------------------------
+Name: Symbol_10 | HitWinCount: 7900 | WinGolds: 1342.0
+Name: Symbol_J | HitWinCount: 8199 | WinGolds: 1425.125
+Name: Symbol_Q | HitWinCount: 8313 | WinGolds: 1413.125
+Name: Symbol_K | HitWinCount: 8264 | WinGolds: 2123.25
+Name: Symbol_A | HitWinCount: 8191 | WinGolds: 2111.8125
+Name: Dragon | HitWinCount: 8057 | WinGolds: 4441.875
+Name: fish | HitWinCount: 8107 | WinGolds: 2951.75
+Name: Fu | HitWinCount: 8338 | WinGolds: 2979.0
+Name: Gold | HitWinCount: 8181 | WinGolds: 3028.25
+Name: lion | HitWinCount: 8087 | WinGolds: 4276.875
+Name: Wild | HitWinCount: 1077 | WinGolds: 2606.875
+Name: Scatter | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin 触发次数: 333
+FreeSpin 次数: 4067
+FreeSpin 总赢钱数: 9019.0
+

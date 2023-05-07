@@ -1,0 +1,28 @@
+Alice
+============enumReturnType_Rate95===============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 55562.0
+TotalWins : 54361.624999999
+Return Rate: 0.97839575609228
+
+----------------------------------
+Name: caohua | HitWinCount: 14649 | WinGolds: 1297.4499999998
+Name: fangpian | HitWinCount: 14424 | WinGolds: 1339.3999999998
+Name: hongtao | HitWinCount: 15147 | WinGolds: 1803.4750000004
+Name: heitao | HitWinCount: 14484 | WinGolds: 1665.2500000004
+Name: biao | HitWinCount: 14362 | WinGolds: 3470.4000000008
+Name: cha | HitWinCount: 26828 | WinGolds: 4226.974999999
+Name: dangao | HitWinCount: 28542 | WinGolds: 5575.2750000006
+Name: tuzi | HitWinCount: 27229 | WinGolds: 14274.25
+Name: maomaochong | HitWinCount: 27876 | WinGolds: 9296.0999999996
+Name: LAOSHU | HitWinCount: 27314 | WinGolds: 8780.5999999987
+Name: SCATTER | HitWinCount: 0 | WinGolds: 0
+Name: wild | HitWinCount: 296 | WinGolds: 740.0
+Name: Wild_Alice | HitWinCount: 15 | WinGolds: 37.5
+Name: NullSymbol | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin 触发次数: 634
+FreeSpin 次数: 4438
+FreeSpin 总赢钱数: 21351.875
+

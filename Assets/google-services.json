@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "263666666299",
+    "firebase_url": "https://witch-slots-b25b6-default-rtdb.firebaseio.com",
+    "project_id": "witch-slots-b25b6",
+    "storage_bucket": "witch-slots-b25b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263666666299:android:9a50a51c8e4bdec322051e",
+        "android_client_info": {
+          "package_name": "com.keyou.witchslots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263666666299-62mmspmhr7hkqjb79kglqkfvmf5kbtgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keyou.witchslots",
+            "certificate_hash": "b895a2c2b5b72a367b4d5bf4684719febdff27bf"
+          }
+        },
+        {
+          "client_id": "263666666299-pqfdq53dqind5dkctljjj5qamugcckng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keyou.witchslots",
+            "certificate_hash": "99186ac359d87244301e66667266dd3f3a257793"
+          }
+        },
+        {
+          "client_id": "263666666299-8hfe0idgfibv4555d74jon7gq1heidia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1WQ-lyP5M5y1i0_ayl-uxFAOz8Q5VR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263666666299-8hfe0idgfibv4555d74jon7gq1heidia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "263666666299-oq13ki0k19i4irt1vs2to2r97aina8fu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.keyou.witchslots"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

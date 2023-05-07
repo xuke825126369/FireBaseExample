@@ -1,0 +1,29 @@
+Troy
+==========enumReturnType_Rate50=============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 55704.0
+TotalWins : 27855.340000001
+Return Rate: 0.50005995978746
+
+----------------------------------
+Name: 10 | HitWinCount: 58361 | WinGolds: 8806.3000000061
+Name: J | HitWinCount: 43728 | WinGolds: 6402.900000002
+Name: Q | HitWinCount: 34311 | WinGolds: 4858.2999999995
+Name: K | HitWinCount: 23673 | WinGolds: 3170.7999999988
+Name: chuan | HitWinCount: 11289 | WinGolds: 2163.2200000003
+Name: dun | HitWinCount: 6729 | WinGolds: 1251.14
+Name: toukui | HitWinCount: 3208 | WinGolds: 605.87999999997
+Name: zhanshen | HitWinCount: 1256 | WinGolds: 296.99999999999
+Name: wangzi | HitWinCount: 466 | WinGolds: 253.0
+Name: scatter | HitWinCount: 0 | WinGolds: 0
+Name: normalWild | HitWinCount: 266 | WinGolds: 46.8
+Name: NormalWild_1 | HitWinCount: 0 | WinGolds: 0
+Name: nvshenWild | HitWinCount: 0 | WinGolds: 0
+Name: nvshenWild_1 | HitWinCount: 0 | WinGolds: 0
+Name: NullSymbol | HitWinCount: 0 | WinGolds: 0
+
+FreeSpin 触发次数: 266
+FreeSpin 次数: 4296
+FreeSpin 总赢钱数: 4444.14
+

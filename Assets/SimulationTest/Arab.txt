@@ -1,0 +1,28 @@
+Arab
+==========enumReturnType_Rate50=============
+Test SimulationCount:  60000
+Actual SimulationCount:  60000
+TotalBets : 57568.0
+TotalWins : 29178.607000001
+Return Rate: 0.50685462409674
+
+----------------------------------
+Name: Symbol_10 | HitWinCount: 43767 | WinGolds: 1628.1799999993
+Name: Symbol_J | HitWinCount: 41064 | WinGolds: 1884.6999999989
+Name: Symbol_Q | HitWinCount: 42786 | WinGolds: 2918.5199999985
+Name: Symbol_K | HitWinCount: 42737 | WinGolds: 2924.1599999987
+Name: Symbol_A | HitWinCount: 42031 | WinGolds: 3787.6399999977
+Name: dadao | HitWinCount: 10793 | WinGolds: 1465.76
+Name: feitan | HitWinCount: 9723 | WinGolds: 1484.6
+Name: meinv | HitWinCount: 22669 | WinGolds: 4291.2799999997
+Name: qiangtao | HitWinCount: 22807 | WinGolds: 2669.6399999991
+Name: Scatter | HitWinCount: 0 | WinGolds: 0
+Name: Wild | HitWinCount: 10 | WinGolds: 1.6
+
+FreeSpin 触发次数: 304
+FreeSpin 次数: 2432
+FreeSpin 总赢钱数: 921.44
+
+BonusGame 次数: 27
+BonusGame 总赢钱数: 6122.527
+

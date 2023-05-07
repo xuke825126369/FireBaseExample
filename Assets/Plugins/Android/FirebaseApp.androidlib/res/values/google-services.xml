@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://witch-slots-b25b6-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">263666666299</string>
+  <string name="google_storage_bucket" translatable="false">witch-slots-b25b6.appspot.com</string>
+  <string name="project_id" translatable="false">witch-slots-b25b6</string>
+  <string name="google_api_key" translatable="false">AIzaSyAk1WQ-lyP5M5y1i0_ayl-uxFAOz8Q5VR0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAk1WQ-lyP5M5y1i0_ayl-uxFAOz8Q5VR0</string>
+  <string name="google_app_id" translatable="false">1:263666666299:android:9a50a51c8e4bdec322051e</string>
+  <string name="default_android_client_id" translatable="false">263666666299-62mmspmhr7hkqjb79kglqkfvmf5kbtgv.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">263666666299-8hfe0idgfibv4555d74jon7gq1heidia.apps.googleusercontent.com</string>
+</resources>

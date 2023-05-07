@@ -1,0 +1,393 @@
+{
+    "nCSharpVersion": "7",
+    "mInitSceneWebItemDic": {
+        "global": {
+            "bundleName": "global",
+            "mHash": "45a585b6de40affe9b8ab54a6beaa1d1",
+            "bundleNameWithHash": "global_45a585b6de40affe9b8ab54a6beaa1d1",
+            "bUpdate": false
+        },
+        "initscene": {
+            "bundleName": "initscene",
+            "mHash": "054a6c7dea1e6c9397350afc20a4037f",
+            "bundleNameWithHash": "initscene_054a6c7dea1e6c9397350afc20a4037f",
+            "bUpdate": false
+        },
+        "lobby": {
+            "bundleName": "lobby",
+            "mHash": "468fadf7f7fd701cf44146697b599692",
+            "bundleNameWithHash": "lobby_468fadf7f7fd701cf44146697b599692",
+            "bUpdate": true
+        },
+        "lua": {
+            "bundleName": "lua",
+            "mHash": "262fba3b013da3331247acdfb4dc82a6",
+            "bundleNameWithHash": "lua_262fba3b013da3331247acdfb4dc82a6",
+            "bUpdate": true
+        },
+        "themevideocommon": {
+            "bundleName": "themevideocommon",
+            "mHash": "8b0267b4e5a86ac3bd4e0580f8294024",
+            "bundleNameWithHash": "themevideocommon_8b0267b4e5a86ac3bd4e0580f8294024",
+            "bUpdate": false
+        },
+        "themevideoentry": {
+            "bundleName": "themevideoentry",
+            "mHash": "3ca7de3925756d815b37d4f05dfb4a28",
+            "bundleNameWithHash": "themevideoentry_3ca7de3925756d815b37d4f05dfb4a28",
+            "bUpdate": true
+        },
+        "activitycommon": {
+            "bundleName": "activitycommon",
+            "mHash": "96335cf36965e83a04a90b127dd0eaf6",
+            "bundleNameWithHash": "activitycommon_96335cf36965e83a04a90b127dd0eaf6",
+            "bUpdate": false
+        }
+    },
+    "mActivityWebItemDic": {
+        "activity_bingo": {
+            "bundleName": "activity_bingo",
+            "mHash": "f918cbfdd74aca92c4e5cfa04e47b44b",
+            "bundleNameWithHash": "activity_bingo_f918cbfdd74aca92c4e5cfa04e47b44b",
+            "bUpdate": false
+        },
+        "activity_boardquest": {
+            "bundleName": "activity_boardquest",
+            "mHash": "1e79824772455fbf5a56b57d784fb611",
+            "bundleNameWithHash": "activity_boardquest_1e79824772455fbf5a56b57d784fb611",
+            "bUpdate": false
+        },
+        "activity_chutesrockets": {
+            "bundleName": "activity_chutesrockets",
+            "mHash": "40f41373ada2c4fb35b533159ed695f8",
+            "bundleNameWithHash": "activity_chutesrockets_40f41373ada2c4fb35b533159ed695f8",
+            "bUpdate": false
+        },
+        "activity_cookingfever": {
+            "bundleName": "activity_cookingfever",
+            "mHash": "95defc08c19a391c4b7ab017d5114c50",
+            "bundleNameWithHash": "activity_cookingfever_95defc08c19a391c4b7ab017d5114c50",
+            "bUpdate": false
+        },
+        "activity_findrichie": {
+            "bundleName": "activity_findrichie",
+            "mHash": "589923c42bd73423342bf92c0d910852",
+            "bundleNameWithHash": "activity_findrichie_589923c42bd73423342bf92c0d910852",
+            "bUpdate": false
+        },
+        "activity_luckyjump": {
+            "bundleName": "activity_luckyjump",
+            "mHash": "af4dc45b9febea7648c1a3f4dff071da",
+            "bundleNameWithHash": "activity_luckyjump_af4dc45b9febea7648c1a3f4dff071da",
+            "bUpdate": false
+        },
+        "activity_oceanfortune": {
+            "bundleName": "activity_oceanfortune",
+            "mHash": "6f11c04d823e9231899da8010856307e",
+            "bundleNameWithHash": "activity_oceanfortune_6f11c04d823e9231899da8010856307e",
+            "bUpdate": false
+        },
+        "activity_pickbonus": {
+            "bundleName": "activity_pickbonus",
+            "mHash": "da26aee8d89a60b0947aecfdf6ce0944",
+            "bundleNameWithHash": "activity_pickbonus_da26aee8d89a60b0947aecfdf6ce0944",
+            "bUpdate": false
+        },
+        "activity_rainbowpick": {
+            "bundleName": "activity_rainbowpick",
+            "mHash": "85a51670ee74da027e4f9abad32a0d38",
+            "bundleNameWithHash": "activity_rainbowpick_85a51670ee74da027e4f9abad32a0d38",
+            "bUpdate": false
+        },
+        "activity_rocketfortune": {
+            "bundleName": "activity_rocketfortune",
+            "mHash": "6a7ab4300504aa069c594f917ab03232",
+            "bundleNameWithHash": "activity_rocketfortune_6a7ab4300504aa069c594f917ab03232",
+            "bUpdate": false
+        },
+        "activity_slotscards2020": {
+            "bundleName": "activity_slotscards2020",
+            "mHash": "2f2018436a06fc50ce32b38969d7ab08",
+            "bundleNameWithHash": "activity_slotscards2020_2f2018436a06fc50ce32b38969d7ab08",
+            "bUpdate": false
+        },
+        "activity_slotscards2021": {
+            "bundleName": "activity_slotscards2021",
+            "mHash": "d121d0c0d2e9d3aaa9f39551e1650678",
+            "bundleNameWithHash": "activity_slotscards2021_d121d0c0d2e9d3aaa9f39551e1650678",
+            "bUpdate": false
+        },
+        "activity_worldtravel": {
+            "bundleName": "activity_worldtravel",
+            "mHash": "1bbd55caf6bcdd9e7e0c5fe8fe146717",
+            "bundleNameWithHash": "activity_worldtravel_1bbd55caf6bcdd9e7e0c5fe8fe146717",
+            "bUpdate": false
+        },
+        "activity_lounge": {
+            "bundleName": "activity_lounge",
+            "mHash": "425a6bb4bd8a3d73cbb87ba84f912bd7",
+            "bundleNameWithHash": "activity_lounge_425a6bb4bd8a3d73cbb87ba84f912bd7",
+            "bUpdate": true
+        }
+    },
+    "mThemeWebItemDic": {
+        "themevideoslot_africamania": {
+            "bundleName": "themevideoslot_africamania",
+            "mHash": "75db1c971235dda8fffcce6fd2605de5",
+            "bundleNameWithHash": "themevideoslot_africamania_75db1c971235dda8fffcce6fd2605de5",
+            "bUpdate": false
+        },
+        "themevideoslot_alice": {
+            "bundleName": "themevideoslot_alice",
+            "mHash": "67ab3c6198e81e0f67e7781d8f9c2cce",
+            "bundleNameWithHash": "themevideoslot_alice_67ab3c6198e81e0f67e7781d8f9c2cce",
+            "bUpdate": false
+        },
+        "themevideoslot_animal": {
+            "bundleName": "themevideoslot_animal",
+            "mHash": "6eea3bab91eb4d8f77ad3d56c162398d",
+            "bundleNameWithHash": "themevideoslot_animal_6eea3bab91eb4d8f77ad3d56c162398d",
+            "bUpdate": true
+        },
+        "themevideoslot_arab": {
+            "bundleName": "themevideoslot_arab",
+            "mHash": "254aa1509ff4f1d44c0d4f7434dce26f",
+            "bundleNameWithHash": "themevideoslot_arab_254aa1509ff4f1d44c0d4f7434dce26f",
+            "bUpdate": false
+        },
+        "themevideoslot_aztecadventure": {
+            "bundleName": "themevideoslot_aztecadventure",
+            "mHash": "930bd410ffb24f638580914273016fae",
+            "bundleNameWithHash": "themevideoslot_aztecadventure_930bd410ffb24f638580914273016fae",
+            "bUpdate": true
+        },
+        "themevideoslot_farm": {
+            "bundleName": "themevideoslot_farm",
+            "mHash": "73db77b0593b59f35fd98825adb61d7f",
+            "bundleNameWithHash": "themevideoslot_farm_73db77b0593b59f35fd98825adb61d7f",
+            "bUpdate": false
+        },
+        "themevideoslot_fortunesofgold": {
+            "bundleName": "themevideoslot_fortunesofgold",
+            "mHash": "1fa22f6b427652575e6d7fe91bee77df",
+            "bundleNameWithHash": "themevideoslot_fortunesofgold_1fa22f6b427652575e6d7fe91bee77df",
+            "bUpdate": false
+        },
+        "themevideoslot_godofwealth": {
+            "bundleName": "themevideoslot_godofwealth",
+            "mHash": "a407f5e83e8aafc797c7120f2d38e0bb",
+            "bundleNameWithHash": "themevideoslot_godofwealth_a407f5e83e8aafc797c7120f2d38e0bb",
+            "bUpdate": false
+        },
+        "themevideoslot_india": {
+            "bundleName": "themevideoslot_india",
+            "mHash": "cbf256c0e1d3f9c4f2d7eca5e7f3fcd8",
+            "bundleNameWithHash": "themevideoslot_india_cbf256c0e1d3f9c4f2d7eca5e7f3fcd8",
+            "bUpdate": false
+        },
+        "themevideoslot_irish": {
+            "bundleName": "themevideoslot_irish",
+            "mHash": "12204a51588a4e150b3a8c586b7a25a2",
+            "bundleNameWithHash": "themevideoslot_irish_12204a51588a4e150b3a8c586b7a25a2",
+            "bUpdate": false
+        },
+        "themevideoslot_luckyvegas": {
+            "bundleName": "themevideoslot_luckyvegas",
+            "mHash": "74a75ed92af2893a06beee182af1f0b5",
+            "bundleNameWithHash": "themevideoslot_luckyvegas_74a75ed92af2893a06beee182af1f0b5",
+            "bUpdate": false
+        },
+        "themevideoslot_magicelements": {
+            "bundleName": "themevideoslot_magicelements",
+            "mHash": "bbb9fd9f7087f51c894665e9a0c93da4",
+            "bundleNameWithHash": "themevideoslot_magicelements_bbb9fd9f7087f51c894665e9a0c93da4",
+            "bUpdate": false
+        },
+        "themevideoslot_mardigras": {
+            "bundleName": "themevideoslot_mardigras",
+            "mHash": "d07acb0c3f3398c6284cec93db49298c",
+            "bundleNameWithHash": "themevideoslot_mardigras_d07acb0c3f3398c6284cec93db49298c",
+            "bUpdate": false
+        },
+        "themevideoslot_ocean": {
+            "bundleName": "themevideoslot_ocean",
+            "mHash": "c60d687952d5e6b7089a72daf02bbafa",
+            "bundleNameWithHash": "themevideoslot_ocean_c60d687952d5e6b7089a72daf02bbafa",
+            "bUpdate": false
+        },
+        "themevideoslot_pixie": {
+            "bundleName": "themevideoslot_pixie",
+            "mHash": "2adf72e0b811209618ddfedf67061904",
+            "bundleNameWithHash": "themevideoslot_pixie_2adf72e0b811209618ddfedf67061904",
+            "bUpdate": false
+        },
+        "themevideoslot_redhat": {
+            "bundleName": "themevideoslot_redhat",
+            "mHash": "98335164df79503e1e3a9d99a3da12f7",
+            "bundleNameWithHash": "themevideoslot_redhat_98335164df79503e1e3a9d99a3da12f7",
+            "bUpdate": false
+        },
+        "themevideoslot_sweetblast": {
+            "bundleName": "themevideoslot_sweetblast",
+            "mHash": "b770600cdf4bbb7c1d95724e28cefa74",
+            "bundleNameWithHash": "themevideoslot_sweetblast_b770600cdf4bbb7c1d95724e28cefa74",
+            "bUpdate": false
+        },
+        "themevideoslot_themepark": {
+            "bundleName": "themevideoslot_themepark",
+            "mHash": "6c485936cd580b721560d3f6726043c9",
+            "bundleNameWithHash": "themevideoslot_themepark_6c485936cd580b721560d3f6726043c9",
+            "bUpdate": false
+        },
+        "themevideoslot_threepigs": {
+            "bundleName": "themevideoslot_threepigs",
+            "mHash": "eb1864fb68daccb8380d2e922dbac371",
+            "bundleNameWithHash": "themevideoslot_threepigs_eb1864fb68daccb8380d2e922dbac371",
+            "bUpdate": false
+        },
+        "themevideoslot_tigerdragon": {
+            "bundleName": "themevideoslot_tigerdragon",
+            "mHash": "b7f810761420dd897b211437935448d3",
+            "bundleNameWithHash": "themevideoslot_tigerdragon_b7f810761420dd897b211437935448d3",
+            "bUpdate": false
+        },
+        "themevideoslot_troy": {
+            "bundleName": "themevideoslot_troy",
+            "mHash": "54e116270bcf6c74e61e6423b3cecabd",
+            "bundleNameWithHash": "themevideoslot_troy_54e116270bcf6c74e61e6423b3cecabd",
+            "bUpdate": false
+        },
+        "themevideoslot_witch": {
+            "bundleName": "themevideoslot_witch",
+            "mHash": "2576432a61ac07e7fc3ba720881932e3",
+            "bundleNameWithHash": "themevideoslot_witch_2576432a61ac07e7fc3ba720881932e3",
+            "bUpdate": false
+        },
+        "themevideoentry_africamania": {
+            "bundleName": "themevideoentry_africamania",
+            "mHash": "4ebe86730c050b7d38d408720925e973",
+            "bundleNameWithHash": "themevideoentry_africamania_4ebe86730c050b7d38d408720925e973",
+            "bUpdate": true
+        },
+        "themevideoentry_alice": {
+            "bundleName": "themevideoentry_alice",
+            "mHash": "c8b6f244231e9942f1763e5059e45dc5",
+            "bundleNameWithHash": "themevideoentry_alice_c8b6f244231e9942f1763e5059e45dc5",
+            "bUpdate": true
+        },
+        "themevideoentry_animal": {
+            "bundleName": "themevideoentry_animal",
+            "mHash": "b785468e06f657115a5451a78273cd14",
+            "bundleNameWithHash": "themevideoentry_animal_b785468e06f657115a5451a78273cd14",
+            "bUpdate": false
+        },
+        "themevideoentry_arab": {
+            "bundleName": "themevideoentry_arab",
+            "mHash": "aec706b106a36d61d2966e0e2bacb86b",
+            "bundleNameWithHash": "themevideoentry_arab_aec706b106a36d61d2966e0e2bacb86b",
+            "bUpdate": true
+        },
+        "themevideoentry_farm": {
+            "bundleName": "themevideoentry_farm",
+            "mHash": "a3593336696b829a37d7f14a65bb4aea",
+            "bundleNameWithHash": "themevideoentry_farm_a3593336696b829a37d7f14a65bb4aea",
+            "bUpdate": true
+        },
+        "themevideoentry_fortunesofgold": {
+            "bundleName": "themevideoentry_fortunesofgold",
+            "mHash": "2a7a13cb51966dc3d86de1ad3cf1a1fe",
+            "bundleNameWithHash": "themevideoentry_fortunesofgold_2a7a13cb51966dc3d86de1ad3cf1a1fe",
+            "bUpdate": true
+        },
+        "themevideoentry_godofwealth": {
+            "bundleName": "themevideoentry_godofwealth",
+            "mHash": "d93a1bc1a84015140c968e1c80f8cd80",
+            "bundleNameWithHash": "themevideoentry_godofwealth_d93a1bc1a84015140c968e1c80f8cd80",
+            "bUpdate": true
+        },
+        "themevideoentry_india": {
+            "bundleName": "themevideoentry_india",
+            "mHash": "82b6e4bbea47ff2e7fdd42367ebb4b56",
+            "bundleNameWithHash": "themevideoentry_india_82b6e4bbea47ff2e7fdd42367ebb4b56",
+            "bUpdate": true
+        },
+        "themevideoentry_irish": {
+            "bundleName": "themevideoentry_irish",
+            "mHash": "e856347e7668f9ae5417ab4bbc250608",
+            "bundleNameWithHash": "themevideoentry_irish_e856347e7668f9ae5417ab4bbc250608",
+            "bUpdate": true
+        },
+        "themevideoentry_luckyvegas": {
+            "bundleName": "themevideoentry_luckyvegas",
+            "mHash": "3d0760a9a553759f29caed0601ee3808",
+            "bundleNameWithHash": "themevideoentry_luckyvegas_3d0760a9a553759f29caed0601ee3808",
+            "bUpdate": true
+        },
+        "themevideoentry_magicelements": {
+            "bundleName": "themevideoentry_magicelements",
+            "mHash": "49c0395174a25c45e8c24285d5406dda",
+            "bundleNameWithHash": "themevideoentry_magicelements_49c0395174a25c45e8c24285d5406dda",
+            "bUpdate": true
+        },
+        "themevideoentry_mardigras": {
+            "bundleName": "themevideoentry_mardigras",
+            "mHash": "c4902e4aea6ca8259df7bcde1d8c375b",
+            "bundleNameWithHash": "themevideoentry_mardigras_c4902e4aea6ca8259df7bcde1d8c375b",
+            "bUpdate": true
+        },
+        "themevideoentry_ocean": {
+            "bundleName": "themevideoentry_ocean",
+            "mHash": "1a07f766295b87c03ebb30d300419991",
+            "bundleNameWithHash": "themevideoentry_ocean_1a07f766295b87c03ebb30d300419991",
+            "bUpdate": true
+        },
+        "themevideoentry_pixie": {
+            "bundleName": "themevideoentry_pixie",
+            "mHash": "1bd4ded39f9f20de803061c186473b4c",
+            "bundleNameWithHash": "themevideoentry_pixie_1bd4ded39f9f20de803061c186473b4c",
+            "bUpdate": true
+        },
+        "themevideoentry_redhat": {
+            "bundleName": "themevideoentry_redhat",
+            "mHash": "9dc1f9e60f9b8dd1ce62dd44e8ad141c",
+            "bundleNameWithHash": "themevideoentry_redhat_9dc1f9e60f9b8dd1ce62dd44e8ad141c",
+            "bUpdate": true
+        },
+        "themevideoentry_sweetblast": {
+            "bundleName": "themevideoentry_sweetblast",
+            "mHash": "c0a3ce86a489d2cfd849e6b25ab1a2ce",
+            "bundleNameWithHash": "themevideoentry_sweetblast_c0a3ce86a489d2cfd849e6b25ab1a2ce",
+            "bUpdate": true
+        },
+        "themevideoentry_themepark": {
+            "bundleName": "themevideoentry_themepark",
+            "mHash": "a92c33300700c1fcaeb9d58330ef92b2",
+            "bundleNameWithHash": "themevideoentry_themepark_a92c33300700c1fcaeb9d58330ef92b2",
+            "bUpdate": true
+        },
+        "themevideoentry_threepigs": {
+            "bundleName": "themevideoentry_threepigs",
+            "mHash": "4661b57c15719e7b785d9cb706e3a4a9",
+            "bundleNameWithHash": "themevideoentry_threepigs_4661b57c15719e7b785d9cb706e3a4a9",
+            "bUpdate": true
+        },
+        "themevideoentry_tigerdragon": {
+            "bundleName": "themevideoentry_tigerdragon",
+            "mHash": "8a3c8f031206d26e98d2d3a586c39a08",
+            "bundleNameWithHash": "themevideoentry_tigerdragon_8a3c8f031206d26e98d2d3a586c39a08",
+            "bUpdate": true
+        },
+        "themevideoentry_troy": {
+            "bundleName": "themevideoentry_troy",
+            "mHash": "0131a702843397a190592aec73dac058",
+            "bundleNameWithHash": "themevideoentry_troy_0131a702843397a190592aec73dac058",
+            "bUpdate": true
+        },
+        "themevideoentry_witch": {
+            "bundleName": "themevideoentry_witch",
+            "mHash": "e49af4dbbdd9605210cfa310264b5a42",
+            "bundleNameWithHash": "themevideoentry_witch_e49af4dbbdd9605210cfa310264b5a42",
+            "bUpdate": true
+        }
+    }
+}
